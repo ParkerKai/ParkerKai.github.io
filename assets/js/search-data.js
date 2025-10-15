@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A selection of cool projects I&#39;ve worked on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -511,13 +511,6 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/Kai-Parker/", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -530,13 +523,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.usgs.gov/staff-profiles/kai-parker", "_blank");
-        },
-      },{
-        id: 'social-contact_note',
-        title: 'Contact_note',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
