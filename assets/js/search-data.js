@@ -494,7 +494,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/kaiparker@gmail.com", "_blank");
+          window.open("https://www.linkedin.com/in/kai-parker-45549b144", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -522,7 +522,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=hKlNIJMAAAAJ", "_blank");
         },
       },{
         id: 'social-work',
