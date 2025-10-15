@@ -33,7 +33,7 @@ orcid_id: 0000-0002-0268-3891 # your ORCID ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 research_gate_profile: Kai-Parker # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: hKlNIJMAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -54,6 +54,3 @@ work_url: https://www.usgs.gov/staff-profiles/kai-parker # work page URL
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #  title: Custom Social
 #  url: https://www.alberteinstein.com/
-
-contact_note: >
-  The best way to get ahold of me is e-mail.
