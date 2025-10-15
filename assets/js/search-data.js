@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Kai-Parker/", "_blank");
+          window.open("https://www.researchgate.net/profile/Kai-Parker/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -530,13 +530,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.usgs.gov/staff-profiles/kai-parker", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
