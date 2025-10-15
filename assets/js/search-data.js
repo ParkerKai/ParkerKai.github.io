@@ -532,6 +532,13 @@ ninja.data = [{
           window.open("https://www.usgs.gov/staff-profiles/kai-parker", "_blank");
         },
       },{
+        id: 'social-contact_note',
+        title: 'Contact_note',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
