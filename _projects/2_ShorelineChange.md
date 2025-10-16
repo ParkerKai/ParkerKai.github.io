@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Shoreline Change
+description: Beach profile monitoring and shoreline change modelling 
 img: assets/img/Proj2_ShorelineChange/ATV.jpg
 importance: 2
 category: work
