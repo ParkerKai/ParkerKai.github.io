@@ -445,9 +445,9 @@ ninja.data = [{
           description: "Regional scale modelling to characterize water level components contributing to extremes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_RegionalWL/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-emulation",
+          title: 'Emulation',
+          description: "Hybrid modelling using machine learning to speed up dynamic models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_Emulation/";
             },},{id: "projects-project-5",
