@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "institution": "United States Geological Survey",
-      "title": "Physical Scientist",
+      "name": "United States Geological Survey",
+      "position": "Physical Scientist",
       "url": "https://www.usgs.gov/staff-profiles/kai-parker",
       "startDate": "2024-03-01",
       "endDate": "",
@@ -36,8 +36,8 @@
       ]
     },
     {
-      "institution": "United States Geolgocial Survey",
-      "title": "Oceanographer",
+      "name": "United States Geolgocial Survey",
+      "position": "Oceanographer",
       "url": "https://www.usgs.gov/staff-profiles/kai-parker",
       "startDate": "2020-03-01",
       "endDate": "2024-03-01",
@@ -49,9 +49,9 @@
       ]
     },
     {
-      "institution": "Fulbright Chile",
-      "title": "Fulbright Scholar ",
-      "url": "https://ge.com",
+      "name": "Fulbright Chile",
+      "position": "Fulbright Scholar ",
+      "url": "https://us.fulbrightonline.org/",
       "startDate": "2019-01-01",
       "endDate": "2019-01-01",
       "summary": "Fulbright Scholar working in Valparaiso Chile on coastal erosion",
@@ -61,9 +61,9 @@
       ]
     },
     {
-      "institution": "Oregon State University",
-      "title": "Graduate Research Assistant (OSU) ",
-      "url": "https://ge.com",
+      "name": "Oregon State University",
+      "position": "Graduate Research Assistant (OSU) ",
+      "url": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/coastal-and-ocean-engineering",
       "startDate": "2014-09-01",
       "endDate": "2018-06-01",
       "summary": "Multiple projects bridging from stakeholder centered adaptation to physical model and developing new machine learning methods",
@@ -74,8 +74,8 @@
       ]
     },
     {
-      "institution": "Moffatt & Nichol",
-      "title": "Coastal Engineering Internship",
+      "name": "Moffatt & Nichol",
+      "position": "Coastal Engineering Internship",
       "url": "https://ge.com",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
