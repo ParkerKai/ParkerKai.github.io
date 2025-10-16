@@ -451,7 +451,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_Emulation/";
             },},{id: "projects-climbing",
-          title: 'Climbing!',
+          title: 'Climbing',
           description: "I also like to project outside",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_climbing/";
