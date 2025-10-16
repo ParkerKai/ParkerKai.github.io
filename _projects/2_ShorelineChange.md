@@ -5,21 +5,12 @@ description: Beach profile monitoring and shoreline change modelling
 img: assets/img/Proj2_ShorelineChange/ATV.JPG
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Website In Progress
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+We use a variety of platforms to observ coastal change. This incluedes GPS surveys using backpacks, ATVs, Jetskis, boats, etc. We also increasingly use arial photography and structure from motion or satellite imagery for shoreline detection.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,6 +26,8 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     On the left, 2 of the USGS's survey Jetskis, used for surveying in the surfzone. Middle, backpack topo in the survzone. Right, Jetski in action in the surfzone.
 </div>
+
+We use these data to monitor the beach and see how beach volumes change over time as a function of waves, season, and large scale ocean patterns (e.g. El Nino, PDO, etc.) 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Proj2_ShorelineChange/MapMeasuredChange_stevens_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -44,9 +37,8 @@ To give your project a background in the portfolio page, just add the img tag to
     Map of measured profile change.  
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
+These data are then often used for modelling. I support work as part of CoSMoS coast which uses data assimilated shoreline models to predict future shorelines. This work here uses longshore transport equations to look at how wave forcing effects beaches around stabalized inlets. This work helps for sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -60,10 +52,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     Left, Modelled cumulative volume change. Right, model formulation for change in volume.  
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Website in Progress 
 
 {% raw %}
 
