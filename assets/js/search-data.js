@@ -440,9 +440,9 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_ShorelineChange/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-regional-water-level-components",
+          title: 'Regional Water Level Components',
+          description: "Regional scale modelling to characterize water level components contributing to extremes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_RegionalWL/";
             },},{id: "projects-project-4",
