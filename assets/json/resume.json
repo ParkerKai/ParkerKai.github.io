@@ -1,10 +1,10 @@
 {
-  "basics": {
+  "General": {
     "name": "Kai Parker",
     "label": "Coastal Scientist ",
     "picture": "",
     "email": "kaiparker@gmail.com",
-    "phone": "(775) 560-3210",
+    "phone": "",
     "url": "https://parkerkai.github.io/",
     "summary": "Innovative coastal scientist with over a decade of experience in coastal hazard modeling, climate adaptation, and stakeholder-driven science across the U.S. West Coast. Proven leader in developing and managing multi-million-dollar projects at the USGS, with a strong foundation in numerical modeling, geospatial analysis, and nature-based solutions. Adept at translating complex data into actionable insights for diverse audiences, from policymakers to local communities. Passionate about mentoring, cross-disciplinary collaboration, and advancing coastal resilience through science-based planning and communication.",
     "location": {
@@ -24,50 +24,49 @@
   },
   "work": [
     {
-      "company": "United States Geological Survey",
-      "position": "Physical Scientist",
-      "url": "https://edison.com",
+      "institution": "United States Geological Survey",
+      "title": "Physical Scientist",
+      "url": "https://www.usgs.gov/staff-profiles/kai-parker",
       "startDate": "2024-03-01",
       "endDate": "",
-      "summary": "Founded the company that brought electric light to households and businesses.",
+      "summary": "Technical lead for coastal hazard modelling in the Pacific Northwest",
       "highlights": [
-        "Technical lead for CoSMoS modelling in the Salish Sea, delivering actionable coastal hazard data impacting populations in the millions.",
-        "Managed team and budget (external funding totaling >4 million) with demonstrated success at product delivery and generation of new partners/projects.",
-        "Lead collaboration with multiple partners and sustained engagement with diverse stakeholders including tribes, counties, communities, and federal and academic partners."
+        "Managed team and budget (external funding totaling >4 million) for large project (CoSMoS) delivering actionable coastal hazard data impacting populations in the millions",
+        "Lead collaboration with multiple partners and engagement with diverse stakeholders including tribes, counties, communities, and federal and academic partners."
       ]
     },
     {
-      "company": "United States Geolgocial Survey",
-      "position": "Oceanographer",
-      "url": "https://ge.com",
+      "institution": "United States Geolgocial Survey",
+      "title": "Oceanographer",
+      "url": "https://www.usgs.gov/staff-profiles/kai-parker",
       "startDate": "2020-03-01",
       "endDate": "2024-03-01",
-      "summary": "Co-founded General Electric, one of the largest and most diversified industrial corporations in the world.",
+      "summary": "Coastal Hazard and Coastal Science under climate change",
       "highlights": [
-        "Designed coastal modelling workflows allowing a small team to develop multi-hazard datasets at regional scales (entire Southeast Atlantic). ",
+        "Designed coastal modelling workflows allowing a small team to develop multi-hazard datasets at regional scales (entire Southeast Atlantic).",
         "Developed data pipelines to efficiently process 30+ TB of data into stakeholder-ready products.",
         "Work on adaptation solutions to address ecosystem degradation and coastal hazard risk."
       ]
     },
     {
-      "company": "Fulbright Chile",
-      "position": "Fulbright Scholar ",
+      "institution": "Fulbright Chile",
+      "title": "Fulbright Scholar ",
       "url": "https://ge.com",
       "startDate": "2019-01-01",
       "endDate": "2019-01-01",
-      "summary": "Co-founded General Electric, one of the largest and most diversified industrial corporations in the world.",
+      "summary": "Fulbright Scholar working in Valparaiso Chile on coastal erosion",
       "highlights": [
         "Application of machine learning techniques for long-term wave and shoreline change hindcasting in resource poor (computational and data) environments.",
         "Contributed to adaptation planning efforts for a critical Chilean coastal site (Pichilemu)."
       ]
     },
     {
-      "company": "Oregon State University",
-      "position": "Graduate Research Assistant (OSU) ",
+      "institution": "Oregon State University",
+      "title": "Graduate Research Assistant (OSU) ",
       "url": "https://ge.com",
       "startDate": "2014-09-01",
       "endDate": "2018-06-01",
-      "summary": "Co-founded General Electric, one of the largest and most diversified industrial corporations in the world.",
+      "summary": "Multiple projects bridging from stakeholder centered adaptation to physical model and developing new machine learning methods",
       "highlights": [
         "User-centered design, bridging research to stakeholders for community adaptation to risk.",
         "Large interdisciplinary team including public policy, economics, ecology, and more.",
@@ -75,12 +74,12 @@
       ]
     },
     {
-      "company": "Moffatt & Nichol",
-      "position": "Coastal Engineering Internship",
+      "institution": "Moffatt & Nichol",
+      "title": "Coastal Engineering Internship",
       "url": "https://ge.com",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Co-founded General Electric, one of the largest and most diversified industrial corporations in the world.",
+      "summary": "Moffatt & Nichol",
       "highlights": [
         "Comprehensive analysis of various coastal phenomenon such as shoreline erosion, sediment budgets, river/estuary modeling, sea level rise, etc.",
         "Extensive technical writing explaining coastal processes at multiple audience levels."
@@ -91,8 +90,8 @@
     {
       "institution": "Oregon State University",
       "area": "Coastal Engineering",
-      "minor": "Statistics",
       "studyType": "PhD",
+      "description": "Minor in Statistics",
       "startDate": "2013-09-01",
       "endDate": "2018-06-01",
       "gpa": ""
@@ -101,6 +100,7 @@
       "institution": "California Polytechnic State University: San Luis Obispo",
       "area": "Civil Engineering",
       "studyType": "Bachelor of Science",
+      "description": "Focus on Water resources",
       "startDate": "2007-09-01",
       "endDate": "2012-06-01",
       "gpa": ""
