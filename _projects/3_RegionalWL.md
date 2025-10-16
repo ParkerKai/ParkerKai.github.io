@@ -2,7 +2,7 @@
 layout: page
 title: Regional Water Level Components
 description: Regional scale modelling to characterize water level components contributing to extremes
-img: assets/img/7.jpg
+img: assets/img/Proj3_RegWL/GTSM.png
 importance: 3
 category: work
 ---
