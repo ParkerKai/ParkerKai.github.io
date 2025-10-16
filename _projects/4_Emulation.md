@@ -3,7 +3,7 @@ layout: page
 title: Emulation   
 description: Hybrid modelling using machine learning to speed up dynamic models
 img: assets/img/Proj4_Emulation/GPR.png
-importance: 3
+importance: 4
 category: work
 ---
 
