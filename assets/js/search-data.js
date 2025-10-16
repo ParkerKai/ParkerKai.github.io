@@ -434,7 +434,7 @@ ninja.data = [{
           title: 'Coastal Storm Modelling System (Cosmos)',
           description: "CoSMoS makes detailed predictions of storm-induced coastal flooding, erosion, and cliff failures over large geographic scales.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_Cosmos/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
