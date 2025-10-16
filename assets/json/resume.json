@@ -107,11 +107,32 @@
   ],
   "publications (Since 2024)": [
     {
-      "name": "Electric Light and Power",
-      "publisher": "Scientific American",
-      "releaseDate": "1880-01-01",
-      "url": "https://scientificamerican.com",
-      "summary": "A paper detailing the development and impact of electric light and power systems."
+      "name": "Projections of multiple climate-related coastal hazards for the US Southeast Atlantic",
+      "publisher": "Nature Climate Change",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1038/s41558-024-02180-2",
+      "summary": "Regional coastal hazards for the US Southeast Atlantic"
+    },
+    {
+      "name": "Climate controls on longshore sediment transport and coastal morphology adjacent to engineered inlets.",
+      "publisher": "Coastal Engineering",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1016/j.coastaleng.2024.104617",
+      "summary": "Coastal monitoring and modelling of beach profiles near engineered inlets"
+    },
+    {
+      "name": "Scalable, data-assimilated models predict largescale shoreline response to waves and sea-level rise.",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1038/s41598-024-77030-4",
+      "summary": "Shoreline response from data assimilation of satellite shorelines."
+    },
+    {
+      "name": "The projected exposure and response of a natural barrier island system to climate-driven coastal hazards.",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1038/s41598-024-76749-4",
+      "summary": "Hazard exposure of barrier island to multiple future coastal hazards"
     }
   ],
   "skills": [
