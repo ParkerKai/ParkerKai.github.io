@@ -435,9 +435,9 @@ ninja.data = [{
           description: "CoSMoS makes detailed predictions of storm-induced coastal flooding, erosion, and cliff failures over large geographic scales.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_Cosmos/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-shoreline-change",
+          title: 'Shoreline Change',
+          description: "Beach profile monitoring and shoreline change modelling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_ShorelineChange/";
             },},{id: "projects-regional-water-level-components",
