@@ -2,7 +2,7 @@
 layout: page
 title: Coastal Storm Modelling System (Cosmos) 
 description: CoSMoS makes detailed predictions of storm-induced coastal flooding, erosion, and cliff failures over large geographic scales.
-img: assets/img/12.jpg
+img: assets/img/Proj1_Cosmos/USGSCoSMoS.jpg
 importance: 1
 category: work
 related_publications: true
