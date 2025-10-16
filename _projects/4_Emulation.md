@@ -2,7 +2,7 @@
 layout: page
 title: Emulation   
 description: Hybrid modelling using machine learning to speed up dynamic models
-img:
+img: assets/img/Proj4_Emulation/
 importance: 3
 category: work
 ---
