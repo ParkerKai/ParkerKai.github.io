@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Regional Water Level Components
+description: Regional scale modelling to characterize water level components contributing to extremes
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
