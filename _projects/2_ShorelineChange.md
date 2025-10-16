@@ -2,7 +2,7 @@
 layout: page
 title: Shoreline Change
 description: Beach profile monitoring and shoreline change modelling 
-img: assets/img/Proj2_ShorelineChange/ATV.jpg
+img: assets/img/Proj2_ShorelineChange/ATV.JPG
 importance: 2
 category: work
 giscus_comments: true
