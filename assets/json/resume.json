@@ -1,5 +1,5 @@
 {
-  "General": {
+  "basics": {
     "name": "Kai Parker",
     "label": "Coastal Scientist ",
     "picture": "",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Fulbright Chile",
+      "name": "",
       "position": "Fulbright Scholar",
       "url": "https://us.fulbrightonline.org/",
       "startDate": "2019-01-01",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Oregon State University",
-      "position": "Graduate Research Assistant (OSU) ",
+      "position": "Graduate Research Assistant ",
       "url": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/coastal-and-ocean-engineering",
       "startDate": "2014-09-01",
       "endDate": "2018-06-01",
@@ -105,7 +105,7 @@
       "gpa": ""
     }
   ],
-  "publications (Since 2024)": [
+  "publications": [
     {
       "name": "Projections of multiple climate-related coastal hazards for the US Southeast Atlantic",
       "publisher": "Nature Climate Change",
