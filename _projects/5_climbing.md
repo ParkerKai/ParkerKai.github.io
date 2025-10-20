@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Climbing
+title: Fun
 description: I also like to project outside
 img: assets/img/Proj5_Fun/Kai_Rope.jpg
 importance: 1
@@ -22,6 +22,7 @@ For example, climbing rocks.
     Me on rocks
 </div>
 
+I enjoy all kinds of outdoor activites, but climbing is pretty high on the list. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,9 +35,5 @@ For example, climbing rocks.
         {% include figure.liquid loading="eager" path="assets/img/Proj5_Fun/Rue_LoversLeap.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    I climb lots of things
-</div>
 
 
-Website in progress
