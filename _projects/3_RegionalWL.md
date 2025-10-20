@@ -11,18 +11,30 @@ Figures
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Proj3_RegWL/GTSM_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Proj3_RegWL/WW3_Atlantic.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: Global Tide and Surge Model (GTSM), a global implementation of Delft3d-FM. Right: Atlantic Grid for NOAA's MMAB global wave watch 3 model.  
 </div>
 
 
+These models are getting pretty good.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Proj3_RegWL/SE_GaugeError.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Proj3_RegWL/SE_GaugeError.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: Global Tide and Surge Model (GTSM), a global implementation of Delft3d-FM. Right: Atlantic Grid for NOAA's MMAB global wave watch 3 model.  
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
