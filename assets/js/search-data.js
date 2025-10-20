@@ -443,8 +443,8 @@ ninja.data = [{
           description: "Hybrid modelling using machine learning to speed up dynamic models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_Emulation/";
-            },},{id: "projects-climbing",
-          title: 'Climbing',
+            },},{id: "projects-fun",
+          title: 'Fun',
           description: "I also like to project outside",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_climbing/";
