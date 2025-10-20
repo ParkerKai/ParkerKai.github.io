@@ -5,7 +5,7 @@ description: CoSMoS makes detailed predictions of storm-induced coastal flooding
 img: assets/img/Proj1_Cosmos/USGSCoSMoS.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Website in Progress
