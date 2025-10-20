@@ -29,7 +29,7 @@ These models are getting pretty good.
         {% include figure.liquid path="assets/img/Proj3_RegWL/SE_GaugeError.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Proj3_RegWL/SE_GaugeError.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Proj3_RegWL/WL_Scatter.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
