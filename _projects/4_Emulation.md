@@ -56,10 +56,10 @@ This allows thousands of years of simulation to determine things like robust 100
 This allows us to do cool things:
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Proj4_Emulation/Greys_100yrRI.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Proj4_Emulation/SWAN_Emulator_Uncertinaty.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
