@@ -10,28 +10,6 @@ related_publications: false
 
 Website in Progress
 
-
-Flooding is increasingly becoming a reality for communities along the coastline. This is only going to continue to get worst as climate change and SLR change how the coastline, the ecosystem, and people/infastructure interact.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj1_Cosmos/Flooding1.png" title="Jetski" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj1_Cosmos/Flooding2.png" title="Topo Lowers" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj1_Cosmos/Flooding3.png" title="Survey Ski in the Surfzone" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Flooding in the Puget Sound
-</div>
-
-CoSMoS is a modelling tool to predict future coastal hazards over large geographical scales.  The idea is to provide emergency responders and coastal planners with increasingly critical storm-hazards information that can be used to increase public safety, mitigate physical damages, and more effectively manage and allocate resources within complex coastal setting. 
-
-This is done using a dynamic downscaling approach in which global data are scaled down to local flood projections for use in community-level coastal planning and decision-making. 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Proj1_Cosmos/Tiered_Downscaling.png" title="example image" class="img-fluid rounded z-depth-1" %}
