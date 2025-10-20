@@ -48,6 +48,3 @@ This allows us to do cool things:
 </div>
 
 Awesome! 
-
-
-{% endraw %}
