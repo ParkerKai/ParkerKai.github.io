@@ -6,7 +6,7 @@ order: 4
 nav: true
 nav_order: 5
 cv_pdf: Resume_Parker.pdf
-description:                Resume for download ----------------------->
+description: Download a pretty resume version ------------------------------------------------------------------------------------>
 toc:
   sidebar: left
 ---
