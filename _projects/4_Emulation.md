@@ -11,6 +11,17 @@ Website in progress
 
 The idea behind an emulator is that often we have a process that takes too long to calculate. In my world, this is often a model that takes too long to run, but it could be any other situation where you need a computation faster than you can compute. The idea is actually fairly similar to how our brains solve for something like catching a baseball. We "could" theoretically try to solve for the motion of a baseball in order to catch it, but it's actually a pretty spicy set of differential equations. 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Proj4_Emulation/Brain.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Proj4_Emulation/EquationsMotion.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Would you prefer to solve the equations (right), or solve it like our brain does?  
+</div>
 
 Instead, our brain solves this a different way.  We play catch and build up a database of where a baseball ends up from a set of initial conditions.  Your brain then guestimates based on this database. We can do something similar with computationally expensive model runs by building up a database of how the computationally expensive process behaves based on the inputs, and then use machine learning to guestimate what it would say from any set of initial conditions.
 
@@ -42,10 +53,10 @@ This allows us to do cool things:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Proj4_Emulation//SWAN_Emulator_Uncertinaty.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Proj4_Emulation/Greys_100yrRI.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Proj4_Emulation//SWAN_Emulator_Uncertinaty.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Proj4_Emulation/SWAN_Emulator_Uncertinaty.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
