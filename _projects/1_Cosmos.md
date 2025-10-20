@@ -45,10 +45,10 @@ This is done using a dynamic downscaling approach in which global data are scale
 Global data (from global reanalysis and climate model simultaions) provide data to regional models. For the Puget Sound, the regional models are a Salish Sea implementation of a hydrodynamic and wave model.  
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Proj1_Cosmos/RegionalModel.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Proj1_Cosmos/RegionalModel_Wave.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
