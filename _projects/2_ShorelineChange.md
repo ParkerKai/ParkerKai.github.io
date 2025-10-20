@@ -40,6 +40,15 @@ We use these data to monitor the beach and see how beach volumes change over tim
 
 These data both inform the current state of the coastline (you would be amazed at how little is know about what happens just offshore of your favorite beach), as well as for modelling. In terms of my work in this area, I support work as part of CoSMoS coast (mainly on the wave modelling side) which uses data assimilated shoreline models to predict future shorelines. You can imagine how important for community planning and adaptation having information on long term changes to the shoreline is.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Proj2_ShorelineChange/CapeLookoutErosion_NatSciRep2023.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Map of measured profile change.  
+</div>
+
 
 I also am part of a project that uses longshore transport equations to look at how wave forcing effects beaches around stabalized inlets. This work helps for sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
 
