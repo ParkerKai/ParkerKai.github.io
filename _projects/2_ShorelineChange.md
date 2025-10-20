@@ -10,7 +10,7 @@ giscus_comments: false
 
 Website In Progress
 
-We use a variety of platforms to observ coastal change. This incluedes GPS surveys using backpacks, ATVs, Jetskis, boats, etc. We also increasingly use arial photography and structure from motion or satellite imagery for shoreline detection.
+The USGS (and myself) study shoreline change in a variety of ways. Since a lot happens where water meets land, knowing how it changes through time (and will into the future) is super important. In terms of observing shoreline change, we use a variety of platforms, inclueding GPS surveys with backpacks, ATVs, Jetskis, boats, etc. We also increasingly use arial photography and satellite data.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,7 +38,10 @@ We use these data to monitor the beach and see how beach volumes change over tim
 </div>
 
 
-These data are then often used for modelling. I support work as part of CoSMoS coast which uses data assimilated shoreline models to predict future shorelines. This work here uses longshore transport equations to look at how wave forcing effects beaches around stabalized inlets. This work helps for sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
+These data both inform the current state of the coastline (you would be amazed at how little is know about what happens just offshore of your favorite beach), as well as for modelling. In terms of my work in this area, I support work as part of CoSMoS coast (mainly on the wave modelling side) which uses data assimilated shoreline models to predict future shorelines. You can imagine how important for community planning and adaptation having information on long term changes to the shoreline is.
+
+
+I also am part of a project that uses longshore transport equations to look at how wave forcing effects beaches around stabalized inlets. This work helps for sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
