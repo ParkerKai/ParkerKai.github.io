@@ -44,10 +44,10 @@ These data both inform the current state of the coastline (you would be amazed a
 I also am part of a project that uses longshore transport equations to look at how wave forcing effects beaches around stabalized inlets. This work helps for sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Proj2_ShorelineChange/ModelledCumChange_Stevens2024.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Proj2_ShorelineChange/ModelForm_Stevens2024.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
