@@ -7,8 +7,6 @@ importance: 4
 category: work
 ---
 
-Website in progress
-
 The idea behind an emulator is that often we have a process that takes too long to calculate. In my world, this is often a model that takes too long to run, but it could be any other situation where you need a computation faster than you can compute. The idea is actually fairly similar to how our brains solve for something like catching a baseball. We "could" theoretically try to solve for the motion of a baseball in order to catch it, but it's actually a pretty spicy set of differential equations. 
 
 
