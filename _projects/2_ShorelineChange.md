@@ -5,10 +5,8 @@ description: Beach profile monitoring and shoreline change modelling
 img: assets/img/Proj2_ShorelineChange/ATV.JPG
 importance: 2
 category: work
-giscus_comments: false
 ---
 
-Website In Progress
 
 The USGS (and myself) study shoreline change in a variety of ways. Since a lot happens where water meets land, knowing how it changes through time (and will into the future) is super important. In terms of observing shoreline change, we use a variety of platforms, inclueding GPS surveys with backpacks, ATVs, Jetskis, boats, etc. We also increasingly use arial photography and satellite data.
 
@@ -67,4 +65,3 @@ I also am part of a project (lead by <a href="https://www.usgs.gov/staff-profile
 This work helps inform sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
 
 
-Website in Progress 
