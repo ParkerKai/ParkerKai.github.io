@@ -8,10 +8,6 @@ category: work
 related_publications: false
 ---
 
-<h2> Website in Progress </h2> 
-<br>
-<br>
-
 Coastal hazards are increasingly becoming a common reality for communities along the coastline, a pressure that will only become more prevalent as climate change and SLR continue to change how the coastline, the ecosystem, and people/infastructure interact. Information on how the coastal environment and extreme events are expected to change is critical for charting a course into the future. 
 
 <div class="row">
@@ -70,7 +66,6 @@ These models provide data to local scale flooding models (SFINCS) that provide d
 I work on a whole bunch of Cosmos related work, but lead (along with <a href="https://www.linkedin.com/in/kees-nederhoff/"> Kees Nederhoff</a>) the Cosmos implementation in the Pacific Northwest. There we have made some really cool changes to workflow, like full dynamic modelling of streamflow across the Salish Sea basin to better resolve compound flooding. We've also moved to a "response based" coastal hazard approach where we are modelling 100's of years of coastal flooding and then letting events naturally emerge from the system resonse (rather than event based approach where extreme events are pre-selected). This allows the specific event which causes a 100-year return interval event to vary spatially. This makes sense physically as the 100-year event in a coastal region will be driven by oceanographic forcing while the 100-year event up a stream will be fluvial driven (and likely not the same event).
 
 <br>
-
 
 As part of the Pacific Northwest implementation of Cosmos, I do pretty much a little of everything in the project from beginning to end.  This includes talking to stakeholders, project managment across teams, building and running models on our High Performance Computing cluster, wrangling giant meteology files, producing and releasing products, and everything in between you can imagine.  
 
