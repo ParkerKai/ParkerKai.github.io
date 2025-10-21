@@ -49,7 +49,7 @@ Global data (from global reanalysis and climate model simultaions) provide data 
     </div>
 </div>
 <div class="caption">
-   Left, Regional Water level model (Delft3d-FM). Right, Regional Wave model (SWAN lookup-table with linear Swell propogation).
+   Left, Regional Water level model (Delft3d-FM, <a href="https://doi.org/10.3390/w15234167"> Grossman et al., 2023</a> ). Right, Regional Wave model (SWAN lookup-table with linear Swell propogation, <a href="https://doi.org/10.1016/j.ocemod.2023.102231"> Crosby et al., 2023</a>).
 </div>
 
 These models provide data to local scale flooding models (SFINCS) that provide data at high resolution for extreme events. As an example of outputs for Cosmos as implemented in the South East Atlantic.
@@ -60,7 +60,7 @@ These models provide data to local scale flooding models (SFINCS) that provide d
     </div>
 </div>
 <div class="caption">
-    Example Multi-Hazard outputs from a CoSMoS implementation on the SouthEast Atlantic coast. The plotted scenario is coastal flooding (no storm), shallow groundwater exposure and erosion (unimpeded model case) for 1.00 m of SLR (that is, the Intermediate scenario projected for 210014), and observed VLM.
+    Example Multi-Hazard outputs from a CoSMoS implementation on the SouthEast Atlantic coast. The plotted scenario is coastal flooding (no storm), shallow groundwater exposure and erosion (unimpeded model case) for 1.00 m of SLR (that is, the Intermediate scenario projected for 210014), and observed VLM. Plot from <a href="https://doi.org/10.1038/s41558-024-02180-2"> Barnard et al., 2025</a>
 </div>
 
 I work on a whole bunch of Cosmos related work, but lead (along with <a href="https://www.linkedin.com/in/kees-nederhoff/"> Kees Nederhoff</a>) the Cosmos implementation in the Pacific Northwest. There we have made some really cool changes to workflow, like full dynamic modelling of streamflow across the Salish Sea basin to better resolve compound flooding. We've also moved to a "response based" coastal hazard approach where we are modelling 100's of years of coastal flooding and then letting events naturally emerge from the system resonse (rather than event based approach where extreme events are pre-selected). This allows the specific event which causes a 100-year return interval event to vary spatially. This makes sense physically as the 100-year event in a coastal region will be driven by oceanographic forcing while the 100-year event up a stream will be fluvial driven (and likely not the same event).
