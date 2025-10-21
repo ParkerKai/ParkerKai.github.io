@@ -65,7 +65,15 @@ These models provide data to local scale flooding models (SFINCS) that provide d
 
 I work on a whole bunch of Cosmos related work, but lead (along with <a href="https://www.linkedin.com/in/kees-nederhoff/"> Kees Nederhoff</a>) the Cosmos implementation in the Pacific Northwest. There we have made some really cool changes to workflow, like full dynamic modelling of streamflow across the Salish Sea basin to better resolve compound flooding. We've also moved to a "response based" coastal hazard approach where we are modelling 100's of years of coastal flooding and then letting events naturally emerge from the system resonse (rather than event based approach where extreme events are pre-selected). This allows the specific event which causes a 100-year return interval event to vary spatially. This makes sense physically as the 100-year event in a coastal region will be driven by oceanographic forcing while the 100-year event up a stream will be fluvial driven (and likely not the same event).
 
-<br>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Proj1_Cosmos/Flooding_SLR_Duwmish.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Example of flooding from the 20-year event at various SLR levels (Lower Duwamish River, King County WA)
+</div>
 
 As part of the Pacific Northwest implementation of Cosmos, I do pretty much a little of everything in the project from beginning to end.  This includes talking to stakeholders, project managment across teams, building and running models on our High Performance Computing cluster, wrangling giant meteology files, producing and releasing products, and everything in between you can imagine.  
 
