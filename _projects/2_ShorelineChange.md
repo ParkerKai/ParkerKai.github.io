@@ -38,7 +38,7 @@ We use these data to monitor the beach and see how beach volumes change over tim
 </div>
 
 
-These data both inform the current state of the coastline (you would be amazed at how little is know about what happens just offshore of your favorite beach), as well as for modelling. In terms of my work in this area, I support work as part of CoSMoS coast (mainly on the wave modelling side) which uses data assimilated shoreline models to predict future shorelines. You can imagine how important for community planning and adaptation having information on long term changes to the shoreline is.
+These data both inform the current state of the coastline (you would be amazed at how little is know about what happens just offshore of your favorite beach), as well as for modelling. In terms of my work in this area, I support work as part of CoSMoS coast (mainly on the wave modelling side) which uses data assimilated shoreline models to predict future shorelines <a href="https://www.usgs.gov/centers/pcmsc/science/cosmos-coast"> Cosmos-Coast </a>. You can imagine how important it is for community planning and adaptation having information on long-term changes to the shoreline.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,11 +46,11 @@ These data both inform the current state of the coastline (you would be amazed a
     </div>
 </div>
 <div class="caption">
-    Map of measured profile change.  
+    Map of Cosmos-Coast modelled changes to the shoreline for Cape Lookout National Seashore.
 </div>
 
 
-I also am part of a project that uses longshore transport equations to look at how wave forcing effects beaches around stabalized inlets. This work helps for sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
+I also am part of a project (lead by <a href="https://www.usgs.gov/staff-profiles/andrew-stevens"> Andrew Stevens </a> that uses longshore transport modelling to examine at how wave forcing effects beaches around stabalized inlets. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
@@ -63,5 +63,8 @@ I also am part of a project that uses longshore transport equations to look at h
 <div class="caption">
     Left, Modelled cumulative volume change. Right, model formulation for change in volume.  
 </div>
+
+This work helps inform sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
+
 
 Website in Progress 
