@@ -32,7 +32,7 @@ We use these data to monitor the beach and see how beach volumes change over tim
     </div>
 </div>
 <div class="caption">
-    Map of measured profile change.  
+    Map of measured profile change at the Colombia and Greys Harbor inlet mouths. Plot from <a href="https://doi.org/10.1016/j.coastaleng.2024.104617"> Stevens et al., 2024 </a>
 </div>
 
 
@@ -59,7 +59,7 @@ I also am part of a project (lead by <a href="https://www.usgs.gov/staff-profile
     </div>
 </div>
 <div class="caption">
-    Left, Modelled cumulative volume change. Right, model formulation for change in volume.  
+    Left, Modelled cumulative volume change. Right, model formulation for change in volume. Plot from <a href="https://doi.org/10.1016/j.coastaleng.2024.104617"> Stevens et al., 2024 </a>
 </div>
 
 This work helps inform sediment management, especially nearshore placement of dredge spoils as a win-win solution for coastal erosion.  
