@@ -34,7 +34,7 @@ Overall comparing modelled water levels (with some simple corrections) to tide g
     </div>
 </div>
 <div class="caption">
-    Left: Global Tide and Surge Model (GTSM), a global implementation of Delft3d-FM. Right: Atlantic Grid for NOAA's MMAB global wave watch 3 model.  
+    Left: Error of GTSM water levels compared to tide gauges. Right: Scatter plot of modelled to observed water levels (NOAA gauge 867087). Plots from <a href="https://doi.org/10.1007/s11069-023-05939-6"> Parker et al., 2023 </a> 
 </div>
 
 With some confidence in these global products, we can start to answer some interesting science questions.  For example, how do the contributors to extreme water levels vary across the United States.  
@@ -61,6 +61,16 @@ We can also leverage these datasets to start to consider how these contributors 
     How water levels are expected to change into the future. 
 </div>
 
-This is one usage of these types of datasets, but they can also be leveraged to run large scale coastal hazard type analysis (E.g. Cosmos).  For example, we utilized these data as nearshore forcing for overland flow models in the South East Atlantic.  
+This is one usage of these types of datasets, but they can also be leveraged to run large scale coastal hazard type analysis (E.g. Cosmos).  For example, we utilized these data as nearshore forcing for overland flow models in the South East Atlantic.  Regional scale data allows characterization of risk across large areas, and therefore better prioritization of resources.  
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Proj3_RegWL/FloodRiskPerCounty_Nederhoff2024pdf.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Color-coded relative flood risk per county as a function of sea-level-rise (SLR). Different panels (a–f) represent different SLR scenarios (no SLR to 300 cm).  From <a href="https://doi.org/10.1007/s11069-024-06552-x"> Nederhoff et al., 2024 </a>
+</div>
 
 
