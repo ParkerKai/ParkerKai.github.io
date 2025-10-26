@@ -44,7 +44,7 @@ These data both inform the current state of the coastline (you would be amazed a
     </div>
 </div>
 <div class="caption">
-    Map of Cosmos-Coast modelled changes to the shoreline for Cape Lookout National Seashore.
+    Map of Cosmos-Coast modelled changes to the shoreline for Cape Lookout National Seashore. Plot from <a href="https://doi.org/10.1038/s41598-024-76749-4"> Thomas et al., 2024 </a>****
 </div>
 
 
