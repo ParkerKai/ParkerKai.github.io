@@ -8,11 +8,11 @@
     "url": "https://parkerkai.github.io/",
     "summary": "Innovative coastal scientist with over a decade of experience in coastal hazard modeling, climate adaptation, and stakeholder-driven science across the U.S. West Coast. Proven leader in developing and managing multi-million-dollar projects at the USGS, with a strong foundation in numerical modeling, geospatial analysis, and nature-based solutions. Adept at translating complex data into actionable insights for diverse audiences, from policymakers to local communities. Passionate about mentoring, cross-disciplinary collaboration, and advancing coastal resilience through science-based planning and communication.",
     "location": {
-      "address": "270 Canyon Oaks",
-      "postalCode": "95065",
-      "city": "Santa Cruz",
+      "address": "2212 Wilson Ave. #A",
+      "postalCode": "98225",
+      "city": "Bellingham",
       "countryCode": "US",
-      "region": "California"
+      "region": "Washington"
     },
     "profiles": [
       {
@@ -24,11 +24,22 @@
   },
   "work": [
     {
+      "name": "Washington Department of Ecology",
+      "position": "Senior Shoreline Vulnerability Specialist",
+      "startDate": "2026-03-16",
+      "endDate": "",
+      "summary": "Technical lead for coastal hazards and climate change",
+      "highlights": [
+        "Develop data, tools, and guidance to help communities plan for climate change and sea level rise",
+        "Continued collaboration with USGS to develop CoSMoS for the Salish Sea"
+      ]
+    },
+    {
       "name": "United States Geological Survey",
       "position": "Physical Scientist",
       "url": "https://www.usgs.gov/staff-profiles/kai-parker",
       "startDate": "2024-03-01",
-      "endDate": "",
+      "endDate": "2026-04-08",
       "summary": "Technical lead for coastal hazard modelling in the Pacific Northwest",
       "highlights": [
         "Managed team and budget (external funding totaling >4 million) for large project (CoSMoS) delivering actionable coastal hazard data impacting populations in the millions",
